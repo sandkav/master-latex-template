@@ -1,6 +1,5 @@
-# UIB LaTeX template
-
-En LaTeX template for Universitetet i Bergen (UiB).
+# LaTeX template for masteroppgaver ved Institutt for informatikk ved UiB
+Denne LaTeX templaten er basert på Diddern sin [UiB-LaTeX-Template](https://github.com/Diddern/UiB-LaTeX-Template) (se fork).
 
 ## Komme i gang
 Clone og kompiler med din favoritt [TeX-distribusjon](https://www.latex-project.org/get/).
